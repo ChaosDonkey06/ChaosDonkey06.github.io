@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jaime Enrique Cascante Vega"
   avatar           : "profile.png"
-  bio              : "Infectious DIsease Modeler"
+  bio              : "Infectious Disease Modeller"
   location         : "Bogotá D.C."
   employer         : "Universidad de los Andes"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : je.cascante10@uniandes.edu.co
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
