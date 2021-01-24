@@ -12,7 +12,7 @@ I'm working on statistical tools to inform interventions and study dynamics at p
 
 I'm also interested in using Machine Learning and statistical methods in a data-science fashion to understan correlation between mobility, socio-economic variables and covid19 incidence (all dificult variables to measure!). 
 
-My free time is mostly spend running and riding my bike.
+My free time is mostly spend running.
 
 Summary
 ------
