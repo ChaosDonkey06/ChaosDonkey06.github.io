@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jaime Cascante"
 title_separator          : "-"
-name                     : &name "Jaime Enrique Cascante Vega"
+name                     : &name "Jaime Cascante"
 description              : &description "personal description"
 url                      : https://ChaosDonkey06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaime Enrique Cascante Vega"
-  avatar           : "webpage.jpeg"
+  avatar           : "webpage.png"
   bio              : "Infectious Disease Modeller"
   location         : "Bogotá D.C."
   employer         : "Universidad de los Andes"
