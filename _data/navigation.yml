@@ -3,11 +3,11 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Work Experience"
-    url: /work/
-
   - title: "Teaching Experience"
     url: /teaching/
+
+  - title: "Work Experience"
+    url: /work/
 
   - title: "Portfolio"
     url: /portfolio/
