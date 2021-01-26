@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Models in Biology"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Universidad de los Andes, Department of Biomedical Engineer"
 date: 2015-01-01
