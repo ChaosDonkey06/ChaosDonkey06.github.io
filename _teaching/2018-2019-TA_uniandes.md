@@ -23,7 +23,7 @@ References
 
 2. Leah Edelstein- Keshet, Mathematical models in Biology, Classics in applied mathematics. Siam 2005. New York, NY.
 
-### Personal References
+### Personal References
 
 1. Keeling, Matt J., and Pejman Rohani. Modeling Infectious Diseases in Humans and Animals. PRINCETON; OXFORD: Princeton University Press, 2008. doi:10.2307/j.ctvcm4gk0.
 2. Strogatz, S.H. (1994). Nonlinear Dynamics And Chaos.
