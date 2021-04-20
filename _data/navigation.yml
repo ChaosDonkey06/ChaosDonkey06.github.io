@@ -9,8 +9,8 @@ main:
   - title: "Work Experience"
     url: /talks/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
 
   #- title: "Blog Posts"
   #  url: /year-archive/
