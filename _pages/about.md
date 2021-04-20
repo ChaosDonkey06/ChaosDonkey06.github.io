@@ -23,4 +23,4 @@ Summary
 
 Contact 
 ------
-I'm always interested in leveraging new research and scientific skills so if you would like to rant about some modelling/infectious-disease problems no doubt to get in touch :)! 
+jc5647 at cumc.columbia.edu
